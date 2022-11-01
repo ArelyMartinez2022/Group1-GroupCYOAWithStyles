@@ -1,5 +1,7 @@
 body {
-    background-image: url("../images/S3e5_resort.webp");
+    font-family: 'Space Mono', monospace;
+    color: whitesmoke;
+    background-image: url("../images/Image2.jpeg");
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;

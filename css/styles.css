@@ -1,18 +1,20 @@
-
+/*
+Arely
+*/
 body {
-    font-family: 'Space Mono', monospace;
-    color: whitesmoke;
-    background-image: url("../images/Image2.jpeg");
+    background-image: url("../images/S3e5_resort.webp");
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
 }
-
+/*
+aisha
+*/
 
 .title{
     color: purple;
     font-size: 5rem;
-    font-weight: 700;
+    font-weight: 500;
     letter-spacing: 8px;
     margin-bottom: 2rem;
     text-align: center;
@@ -21,8 +23,12 @@ body {
     justify-content: center;
     display: grid;
     border: 1px solid black;
-    width: 500px;
     height: auto;
+    width: 500px;
+<<<<<<< HEAD
+    height: auto;
+=======
+>>>>>>> 401f21e03a4ed99fdd66ea07607c8bfea214fd2e
     padding: 20px;
     margin: 15px 0px 15px 350px;
     background-color: rgba(0, 0, 0, .7);
@@ -31,4 +37,9 @@ body {
     background-size: 10%;
     background-position-x: 450px;
     background-position-y: 15px;
+    top: 500px;
+    
+}
+.headerColor{
+    color: plum;
 }

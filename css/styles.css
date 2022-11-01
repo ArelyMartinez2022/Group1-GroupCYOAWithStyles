@@ -4,3 +4,10 @@ body {
     background-attachment: scroll;
     background-size: cover;
 }
+.title{
+    color: green;
+    font-size: 5rem;
+    font-weight: 700;
+    letter-spacing: 8px;
+    margin-bottom: 2rem;
+}

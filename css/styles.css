@@ -6,9 +6,25 @@ body {
 }
 
 .title{
-    color: green;
+    color: purple;
     font-size: 5rem;
     font-weight: 700;
     letter-spacing: 8px;
     margin-bottom: 2rem;
+    text-align: center;
+}
+.subtitle {
+    justify-content: center;
+    display: grid;
+    border: 1px solid black;
+    height: auto;
+    width: 500px;
+    padding: 20px;
+    margin: 15px 0px 15px 350px;
+    background-color: rgba(0, 0, 0, .7);
+    background-image: url("../images/alien.png");
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position-x: 450px;
+    background-position-y: 15px;
 }

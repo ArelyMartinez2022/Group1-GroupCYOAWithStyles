@@ -25,10 +25,9 @@ aisha
     border: 1px solid black;
     height: auto;
     width: 500px;
-<<<<<<< HEAD
+ 
     height: auto;
-=======
->>>>>>> 401f21e03a4ed99fdd66ea07607c8bfea214fd2e
+
     padding: 20px;
     margin: 15px 0px 15px 350px;
     background-color: rgba(0, 0, 0, .7);
@@ -37,7 +36,7 @@ aisha
     background-size: 10%;
     background-position-x: 450px;
     background-position-y: 15px;
-    top: 500px;
+   
     
 }
 .headerColor{

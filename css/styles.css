@@ -1,7 +1,14 @@
 /*
 Arely
 */
-div{
+.div{
+    font-family: 'Orbitron', sans-serif;
+}
+
+.container{
+    font-family: 'Orbitron', sans-serif;
+}
+.row{
     font-family: 'Orbitron', sans-serif;
 }
 
@@ -31,9 +38,9 @@ body {
     width: 700px;
     color: white;
     font-size: 30px;
+    font-family: 'Orbitron', sans-serif;
  
     height: auto;
-    font-family: 'Orbitron', sans-serif;
     padding: 20px;
     margin: 15px 0px 15px 350px;
     background-color: rgba(0, 0, 0, .7);

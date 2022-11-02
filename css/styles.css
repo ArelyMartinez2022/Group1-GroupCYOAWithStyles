@@ -59,6 +59,12 @@ body {
 /*
 aisha
 */
+.radio{
+    color:purple ;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 80px;
+    text-align: center;
+}
 .page2{
     color:purple ;
     font-family: 'Orbitron', sans-serif;

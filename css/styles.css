@@ -1,6 +1,8 @@
 /*
 Arely
 */
+
+
 @font-face {
     font-family: myFirstFont;
     src: url(sansation_light.woff);
@@ -8,7 +10,16 @@ Arely
  
  * {
     font-family: myFirstFont;
+}
+
+@spaceefont {
+    font-family: mySecFont;
+    src: url(https://www.fontspace.com/space-mission-font-f56190);
  }
+ 
+ * {
+    font-family: spacefont;
+}
 
 body {
     background-image: url("../images/Image2.jpeg");
@@ -61,7 +72,7 @@ aisha
     letter-spacing: 8px;
     margin-bottom: 2rem;
     text-align: center;
-    font-family: ;
+    font-family:mySecFont;
 }
 .subtitle {
     justify-content: center;

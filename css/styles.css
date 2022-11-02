@@ -49,7 +49,6 @@ body {
     background-position-y: 15px;
 }
 
-
 /*
 aisha
 */
@@ -87,4 +86,28 @@ aisha
 /*
 jessie
 */
+
+.textbox
+{
+    background-color: black;
+    color: white;
+    justify-content: right;
+    display: flex;
+    border: 1px solid black;
+    height: auto;
+    width: 500px;
+    color: white;
+    font-size: large;
+ 
+    height: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    margin: 15px 0px 15px 350px;
+    background-color: rgba(0, 0, 0, .7);
+    background-image: url("../images/alien.png");
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position-x: 450px;
+    background-position-y: 15px;
+}
 

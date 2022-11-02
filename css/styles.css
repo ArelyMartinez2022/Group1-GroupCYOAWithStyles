@@ -1,6 +1,15 @@
 /*
 Arely
 */
+@font-face {
+    font-family: myFirstFont;
+    src: url(sansation_light.woff);
+ }
+ 
+ * {
+    font-family: myFirstFont;
+ }
+
 body {
     background-image: url("../images/Image2.jpeg");
     background-repeat: no-repeat;
@@ -52,6 +61,7 @@ aisha
     letter-spacing: 8px;
     margin-bottom: 2rem;
     text-align: center;
+    font-family: ;
 }
 .subtitle {
     justify-content: center;

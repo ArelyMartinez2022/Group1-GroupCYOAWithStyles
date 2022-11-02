@@ -1,31 +1,39 @@
 /*
 Arely
 */
+div{
+    font-family: 'Orbitron', sans-serif;
+}
+
 body {
     background-image: url("../images/Image2.jpeg");
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
 }
-/*
-aisha
-*/
 
-.title{
-    color: purple;
-    font-size: 5rem;
-    font-weight: 500;
-    letter-spacing: 8px;
-    margin-bottom: 2rem;
+.button1 {
+    background-color: darkorchid; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
     text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Orbitron', sans-serif;
 }
 .subtitle1 {
     justify-content: center;
     display: grid;
-    border: 1px solid white;
-    
+    border: 1px solid black;
+    height: auto;
     width: 500px;
-    height: 300px;
+    color: white;
+    font-size: large;
+ 
+    height: auto;
+    font-family: 'Orbitron', sans-serif;
     padding: 20px;
     margin: 15px 0px 15px 350px;
     background-color: rgba(0, 0, 0, .7);
@@ -34,13 +42,71 @@ aisha
     background-size: 10%;
     background-position-x: 450px;
     background-position-y: 15px;
-    text-align: left;
-    font-size: 30px ;
-    color: white;
+}
+
+/*
+aisha
+*/
+
+
+.title{
+    color: purple;
+    font-size: 5rem;
+    font-weight: 500;
+    letter-spacing: 8px;
+    margin-bottom: 2rem;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;;
+}
+.subtitle1 {
+    justify-content: center;
+    display: grid;
+    border: 1px solid black;
+    height: auto;
+    width: 500px;
+ 
+    height: auto;
+
+    padding: 20px;
+    margin: 15px 0px 15px 350px;
+    background-color: rgba(0, 0, 0, .7);
+    background-image: url("../images/alien.png");
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position-x: 450px;
+    background-position-y: 15px;
+   
     
 }
 .headerColor{
     color: plum;
+}
+/*
+jessie
+*/
+
+.textbox
+{
+    background-color: black;
+    color: white;
+    justify-content: right;
+    display: flex;
+    border: 1px solid black;
+    height: auto;
+    width: 500px;
+    color: white;
+    font-size: large;
+ 
+    height: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    margin: 15px 0px 15px 350px;
+    background-color: rgba(0, 0, 0, .7);
+    background-image: url("../images/alien.png");
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position-x: 450px;
+    background-position-y: 15px;
 }
 
 

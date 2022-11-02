@@ -28,9 +28,9 @@ body {
     display: grid;
     border: 1px solid black;
     height: auto;
-    width: 500px;
+    width: 700px;
     color: white;
-    font-size: large;
+    font-size: 30px;
  
     height: auto;
     font-family: 'Orbitron', sans-serif;
@@ -63,14 +63,16 @@ aisha
     text-align: center;
     font-family: 'Orbitron', sans-serif;;
 }
-.subtitle1 {
+.subtitle {
     justify-content: center;
     display: grid;
     border: 1px solid black;
     height: auto;
     width: 500px;
+    color: white;
  
     height: auto;
+    font-family: 'Orbitron', sans-serif;
 
     padding: 20px;
     margin: 15px 0px 15px 350px;

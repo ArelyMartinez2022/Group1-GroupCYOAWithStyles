@@ -103,8 +103,8 @@ jessie
 {
     background-color: black;
     color: white;
-    justify-content: right;
     display: flex;
+    justify-content: right;
     border: 1px solid black;
     height: auto;
     width: 500px;
@@ -122,6 +122,3 @@ jessie
     background-position-x: 450px;
     background-position-y: 15px;
 }
-
-
-

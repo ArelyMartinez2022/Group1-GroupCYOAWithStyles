@@ -145,4 +145,5 @@ jessie
 .prayImg
 {
     float: left;
+    z-index: 0;
 }

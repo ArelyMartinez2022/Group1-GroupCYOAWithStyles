@@ -1,7 +1,9 @@
 /*
 Arely
 */
-
+div{
+    font-family: 'Orbitron', sans-serif;
+}
 
 body {
     background-image: url("../images/Image2.jpeg");
@@ -19,7 +21,7 @@ body {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    font-family: 'Orbitron', sans-serif;;
+    font-family: 'Orbitron', sans-serif;
 }
 .subtitle1 {
     justify-content: center;

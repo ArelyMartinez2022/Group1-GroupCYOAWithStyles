@@ -44,6 +44,11 @@ body {
     background-position-y: 15px;
 }
 
+.flex{
+    display:flex;
+    justify-content: space-evenly;
+}
+
 /*
 aisha
 */

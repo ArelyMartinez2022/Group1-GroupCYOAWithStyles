@@ -235,6 +235,17 @@ Arely
 /*
 aisha
 */
+.titlepag5{
+    color: rgb(190, 125, 211);
+    font-size: 5rem;
+    font-weight: 500;
+    letter-spacing: 8px;
+    margin-bottom: 2rem;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: bold;
+    text-shadow: 2px 2px 5px black;
+}
 .buttonpag1 {
     background-color: rgb(103, 16, 103); 
     border: none;
@@ -297,6 +308,43 @@ aisha
     text-shadow: 2px 2px 5px black;
 }
 
+.buttonpag5 {
+    background-color: rgb(190, 125, 211); 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    box-shadow: 10px 10px black;
+    font-size: 16px;
+    font-family: 'Orbitron', sans-serif;
+    text-shadow: 2px 2px 5px black;
+}
+
+
+.subtitlepag5 {
+    justify-content: center;
+    display: grid;
+    border: 1px solid black;
+    height: auto;
+    width: 700px;
+    color: white;
+    font-size: 30px;
+    font-family: 'Orbitron', sans-serif;
+    box-shadow: 10px 10px rgb(190, 125, 211);
+    text-shadow: 2px 2px 5px black;
+ 
+    height: auto;
+    padding: 20px;
+    /* margin: 15px 0px 15px 350px; */
+    background-color: rgba(0, 0, 0, .7);
+    background-image: url("../images/alien.png");
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position-x: 450px;
+    background-position-y: 15px;
+}
 .subtitlepag2 {
     justify-content: center;
     display: grid;
@@ -439,3 +487,267 @@ jessie
 {
     float: right;
 }
+
+/*aisha*/
+
+
+.subtitlepag7 {
+    justify-content: center;
+    display: grid;
+    border: 1px solid black;
+    height: auto;
+    width: 700px;
+    color: white;
+    font-size: 30px;
+    font-family: 'Orbitron', sans-serif;
+    box-shadow: 10px 10px darkred;
+    text-shadow: 2px 2px 5px black;
+ 
+    height: auto;
+    padding: 20px;
+    /* margin: 15px 0px 15px 350px; */
+    background-color: rgba(0, 0, 0, .7);
+    background-image: url("../images/alien.png");
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position-x: 450px;
+    background-position-y: 15px;
+}
+.buttonpag7 {
+    background-color: darkred; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    box-shadow: 10px 10px black;
+    font-size: 16px;
+    font-family: 'Orbitron', sans-serif;
+    text-shadow: 2px 2px 5px black;
+}
+.subtitlepag8 {
+    justify-content: center;
+    display: grid;
+    border: 1px solid black;
+    height: auto;
+    width: 700px;
+    color: white;
+    font-size: 30px;
+    font-family: 'Orbitron', sans-serif;
+    box-shadow: 10px 10px  rgb(67, 11, 11);;
+    text-shadow: 2px 2px 5px black;
+ 
+    height: auto;
+    padding: 20px;
+    /* margin: 15px 0px 15px 350px; */
+    background-color: rgba(0, 0, 0, .7);
+    background-image: url("../images/alien.png");
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position-x: 450px;
+    background-position-y: 15px;
+}
+.buttonpag8 {
+    background-color: rgb(67, 11, 11); /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    box-shadow: 10px 10px black;
+    font-size: 16px;
+    font-family: 'Orbitron', sans-serif;
+    text-shadow: 2px 2px 5px black;
+}
+.subtitlepag3 {
+    justify-content: center;
+    display: grid;
+    border: 1px solid black;
+    height: auto;
+    width: 700px;
+    color: white;
+    font-size: 30px;
+    font-family: 'Orbitron', sans-serif;
+    box-shadow: 10px 10px  rgb(76, 255, 246);;
+    text-shadow: 2px 2px 5px black;
+ 
+    height: auto;
+    padding: 20px;
+    /* margin: 15px 0px 15px 350px; */
+    background-color: rgba(0, 0, 0, .7);
+    background-image: url("../images/alien.png");
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position-x: 450px;
+    background-position-y: 15px;
+}
+.buttonpag3 {
+    background-color: rgb(76, 255, 246); 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    box-shadow: 10px 10px black;
+    font-size: 16px;
+    font-family: 'Orbitron', sans-serif;
+    text-shadow: 2px 2px 5px black;
+}
+.titlepag3{
+    color: rgb(76, 255, 246);
+    font-size: 5rem;
+    font-weight: 500;
+    letter-spacing: 8px;
+    margin-bottom: 2rem;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: bold;
+    text-shadow: 2px 2px 5px black;
+
+}
+.subtitlepag4 {
+    justify-content: center;
+    display: grid;
+    border: 1px solid black;
+    height: auto;
+    width: 700px;
+    color: white;
+    font-size: 30px;
+    font-family: 'Orbitron', sans-serif;
+    box-shadow: 10px 10px  rgb(50, 32, 50);
+    text-shadow: 2px 2px 5px black;
+ 
+    height: auto;
+    padding: 20px;
+    /* margin: 15px 0px 15px 350px; */
+    background-color: rgba(0, 0, 0, .7);
+    background-image: url("../images/alien.png");
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position-x: 450px;
+    background-position-y: 15px;
+}
+.buttonpag4 {
+    background-color:  rgb(50, 32, 50); 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    box-shadow: 10px 10px black;
+    font-size: 16px;
+    font-family: 'Orbitron', sans-serif;
+    text-shadow: 2px 2px 5px black;
+}
+.titlepag4{
+    color: rgb(50, 32, 50);
+    font-size: 5rem;
+    font-weight: 500;
+    letter-spacing: 8px;
+    margin-bottom: 2rem;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: bold;
+    text-shadow: 2px 2px 5px black;
+
+}
+
+.subtitlepag6 {
+    justify-content: center;
+    display: grid;
+    border: 1px solid black;
+    height: auto;
+    width: 700px;
+    color: white;
+    font-size: 30px;
+    font-family: 'Orbitron', sans-serif;
+    box-shadow: 10px 10px  rgb(42, 154, 179);
+    text-shadow: 2px 2px 5px black;
+ 
+    height: auto;
+    padding: 20px;
+    /* margin: 15px 0px 15px 350px; */
+    background-color: rgba(0, 0, 0, .7);
+    background-image: url("../images/alien.png");
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position-x: 450px;
+    background-position-y: 15px;
+}
+.buttonpag6 {
+    background-color: rgb(42, 154, 179); 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    box-shadow: 10px 10px black;
+    font-size: 16px;
+    font-family: 'Orbitron', sans-serif;
+    text-shadow: 2px 2px 5px black;
+}
+.titlepag6{
+    color: rgb(42, 154, 179);
+    font-size: 5rem;
+    font-weight: 500;
+    letter-spacing: 8px;
+    margin-bottom: 2rem;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: bold;
+    text-shadow: 2px 2px 5px black;
+
+}
+.subtitlepag9 {
+    justify-content: center;
+    display: grid;
+    border: 1px solid black;
+    height: auto;
+    width: 700px;
+    color: white;
+    font-size: 30px;
+    font-family: 'Orbitron', sans-serif;
+    box-shadow: 10px 10px   rgb(80, 80, 181);
+    text-shadow: 2px 2px 5px black;
+ 
+    height: auto;
+    padding: 20px;
+    /* margin: 15px 0px 15px 350px; */
+    background-color: rgba(0, 0, 0, .7);
+    background-image: url("../images/alien.png");
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position-x: 450px;
+    background-position-y: 15px;
+}
+.buttonpag9 {
+    background-color:  rgb(80, 80, 181); 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    box-shadow: 10px 10px black;
+    font-size: 16px;
+    font-family: 'Orbitron', sans-serif;
+    text-shadow: 2px 2px 5px black;
+}
+.titlepag9{
+    color: rgb(80, 80, 181);
+    font-size: 5rem;
+    font-weight: 500;
+    letter-spacing: 8px;
+    margin-bottom: 2rem;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: bold;
+    text-shadow: 2px 2px 5px black;
+
+}
+

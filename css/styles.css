@@ -11,6 +11,22 @@ Arely
 .row{
     font-family: 'Orbitron', sans-serif;
 }
+.bot{
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    color: black;
+    text-shadow: 2px 2px 5px white;
+}
+
+.footer-link{
+    font-size: 24px;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    color: darkorchid;
+    text-shadow: 0 0 3px white;
+    font-weight: bold;
+
+}
 
 body {
     background-image: url("../images/Image2.jpeg");

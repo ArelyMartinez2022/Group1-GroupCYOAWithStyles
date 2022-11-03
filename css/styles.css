@@ -77,7 +77,7 @@ Arely
     background-size: cover;
     height: 110vh;
 }
-.PageFour {
+.PageThree {
     background: url(../images/rickThree.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     background-attachment: scroll;
@@ -86,6 +86,17 @@ Arely
     background-size: cover;
     height: 110vh;
 }
+
+.PageFour {
+    background: url(../images/ram-206-bg-sq02sc020-int-rickscube-final-color_orig.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    background-attachment: scroll;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 110vh;
+}
+
 .PageFive {
     background: url(../images/rickEight.webp) no-repeat center center fixed;
     -webkit-background-size: cover;

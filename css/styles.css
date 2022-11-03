@@ -64,6 +64,24 @@ Arely
     background-size: cover;
     height: 110vh;
 }
+.PageEight {
+    background: url(../images/Anatomy_Park_7.webp) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    background-attachment: scroll;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 110vh;
+}
+.PageNine {
+    background: url(../images/thumb-1920-633208.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    background-attachment: scroll;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 120vh;
+}
 
 
 .div{

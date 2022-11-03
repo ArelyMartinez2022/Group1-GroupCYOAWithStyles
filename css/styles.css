@@ -1,6 +1,16 @@
 /*
 Arely
 */
+.mainPage {
+    background: url(../images/Image2.jpeg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    background-attachment: scroll;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 110vh;
+}
+
 .div{
     font-family: 'Orbitron', sans-serif;
 }
@@ -29,12 +39,12 @@ Arely
 
 }
 
-body {
+/* body {
     background-image: url("../images/Image2.jpeg");
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
-}
+} */
 
 .button1 {
     background-color: darkorchid; /* Green */

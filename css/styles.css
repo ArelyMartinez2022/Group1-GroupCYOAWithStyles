@@ -19,6 +19,51 @@ Arely
     background-size: cover;
     height: 110vh;
 }
+.PageTwo {
+    background: url(../images/rickSix.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    background-attachment: scroll;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 110vh;
+}
+.PageFour {
+    background: url(../images/rickThree.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    background-attachment: scroll;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 110vh;
+}
+.PageFive {
+    background: url(../images/rickEight.webp) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    background-attachment: scroll;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 110vh;
+}
+.PageSix {
+    background: url(../images/Image2.jpeg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    background-attachment: scroll;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 110vh;
+}
+.PageSeven {
+    background: url(../images/rickFour.webp) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    background-attachment: scroll;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 110vh;
+}
 
 
 .div{

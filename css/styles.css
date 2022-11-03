@@ -2,7 +2,16 @@
 Arely
 */
 .mainPage {
-    background: url(../images/Image2.jpeg) no-repeat center center fixed;
+    background: url(../images/rickNine.webp) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    background-attachment: scroll;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 110vh;
+}
+.PageOne {
+    background: url(../images/rickSeven.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     background-attachment: scroll;
     -moz-background-size: cover;
